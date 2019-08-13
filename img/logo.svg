@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="206" height="59" viewBox="0 0 206 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.005" y1="0.5" x2="0.007" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#62d1d1"/>
+      <stop offset="1" stop-color="#495270"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-3 -10)">
+    <text id="becoprod_consulting" data-name="becoprod consulting" transform="translate(3 48)" fill="#495270" font-size="20" font-family="Gugi-Regular, Gugi"><tspan x="0" y="17">becoprod consulting</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M301.82,257.642l-4.258,4.258-4.258-4.258-1.9,1.9,13.7,13.826-7.54,7.54-2.295-2.294,5.245-5.245-15.725-15.725-15.726,15.725,15.725,15.725,4.258-4.258,4.258,4.258,1.95-1.95-13.748-13.775,7.54-7.54,2.294,2.294-5.245,5.245,15.725,15.725,15.725-15.726Zm-24.242,15.725,9.5,9.5-2.294,2.294-11.8-11.8,11.8-11.8,2.294,2.294Zm12.444,0,3.281-3.282,3.282,3.282-3.282,3.281Zm9.5,9.5,9.5-9.5-9.5-9.5,2.294-2.294,11.8,11.8-11.8,11.8Z" transform="translate(-191.062 -247.642)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
